@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:cover": "jest --coverage",
+    "test:watch": "jest --watch --coverage"
+},
+"devDependencies": {
+  "babel-jest": "24.9.0",
+  "babel-polyfill": "6.26.0",
+  "@babel/preset-env": "7.16.11",
+  "jest": "24.9.0"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manosfrias/tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manosfrias/tictactoe/issues"
+  },
+  "homepage": "https://github.com/Manosfrias/tictactoe#readme"
+}
