@@ -8,6 +8,7 @@
     "test:cover": "jest --coverage",
     "test:watch": "jest --watch --coverage"
 },
+"type": "module",
 "devDependencies": {
   "babel-jest": "24.9.0",
   "babel-polyfill": "6.26.0",
